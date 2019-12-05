@@ -1,0 +1,91 @@
+body{
+    font-family: helvetica, sans-serif;
+    }
+.logo{
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.naslov{
+    text-shadow: 2px 2px 2px gray;
+    position: relative;
+    top: -10px;
+    margin: auto;
+    text-align: center;
+    }
+
+.podnaslov{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 20px;}
+
+.main{
+    background-color: #F5F6F8;
+    box-shadow: 5px 5px 5px gray;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid;
+    border-radius: 2%;
+    box-sizing: border-box;
+    max-width: 400px;
+    }
+
+.img{
+    border: 1px solid;
+    border-radius: 50%;
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+.form{
+    text-align: center;
+    }
+
+.form-email{
+    font-size: 20px;
+    margin: 20px auto;
+    padding: 2px;
+    border: 1px solid;
+    }
+
+.form-password{
+    font-size: 20px;
+    position: relative;
+    top: -10px;
+    margin: auto;
+    padding: 2px;
+    border: 1px solid
+    }
+
+.form-button{
+    border-radius: 4px;
+    background-color: #3185FC;
+    font-size: 20px;
+    padding: 2px 92px;
+    text-align: center;
+    border: 1px solid;
+    }
+
+.text-right{
+    text-align: right;
+    font-family: helvetica, sans-serif;
+    font-size: 16px;
+    }
+
+.account{
+    margin: 20px auto;
+    text-align: center;
+    font-size: 20px;
+    }
+
+.ikone{
+    text-align: center;
+    margin: auto;
+    font-size: 30px; color: #4DCCBD;
+    }
+
+

@@ -1,0 +1,58 @@
+body{
+    font-family: verdana, sans-serif;
+    }
+
+.logo{
+    margin: 90px auto;
+    width: 300px;
+    }
+
+.searchbar{
+    font-size: 20px;
+    display:block;
+    border: 1px solid black;
+    border-radius: 24px;
+    padding: 10px;
+    width: 650px;
+    margin: auto;
+    position: relative;
+    top: -150px;
+    box-shadow: 2px 2px 6px gray;
+    }
+
+.button-block{
+    text-align: center;
+    position: relative;
+    top: -110px;
+    }
+
+.button{
+    font-size: 16px;
+    padding: 12px;
+    background-color: #F5F6F8;
+    border: none;
+    border-radius: 4px;
+    margin: 0 5px 0 5px;
+    }
+
+.header{
+    margin: 20px 0 auto;
+    width: 300px;
+    height: 100px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    }
+
+.linkovi{
+    font-size: 16px;
+    margin: 0 15px 0 5px;
+    }
+
+.profil{
+    margin-left: 20px;
+    border-radius: 50%;
+    border: 1px solid;
+    padding: 15px;
+    background-color: lightblue;
+    }
